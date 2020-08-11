@@ -2,6 +2,10 @@
 
 This repository is dedicated to share everything I am studying in my Web Developer course. I chose COD3R to start my studies, as I am aware that the product offered is of the highest quality.
 
+# Link
+* COD3R: https://www.cod3r.com.br/courses/web-moderno
+* Udemy: https://www.udemy.com/course/curso-web/
+
 # Technologies
 * JavaScript
 * Node
