@@ -13,10 +13,18 @@ This repository is dedicated to share everything I am studying in my Web Develop
 * Web Concepts
 * HTML
 * CSS
-* Gulp
-* React
 * Ajax
-* Vue
+* Gulp
+* Webpack
+* jQuery
+* Bootstrap
+* React
+* VueJS
+* Angular 9
+* SQL
+* NoSQL
+* Express
+* Gulp - Version 3
 
 # Getting Started
 * Donwload the project
