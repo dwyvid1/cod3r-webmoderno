@@ -1,5 +1,5 @@
 # Web Dev Course
-![Alt text](https://i.morioh.com/200504/a047f2b5.jpg)
+![Alt text](https://webradiogratis.com.br/wp-content/uploads/2018/05/HTML-5.jpeg)
 
 This repository is dedicated to share everything I am studying in my Web Developer course. I chose COD3R to start my studies, as I am aware that the product offered is of the highest quality.
 
